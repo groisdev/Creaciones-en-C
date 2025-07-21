@@ -1,7 +1,3 @@
-/*Serie Fibonacci
-Kenneth Grois
-95.425.358
-Turno mañana*/
 #include <stdio.h>
 int main(){
 
