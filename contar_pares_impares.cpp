@@ -1,8 +1,3 @@
-/*27 de marzo de 2024
-Ejericio 20-numeros pares e impares
-Turno mañana 
-Kenneth Grois*/
-
 #include <stdio.h>
 #define LIM 20
 
